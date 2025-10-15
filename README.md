@@ -17,7 +17,7 @@ This notebook demonstrates the process of building a K-Nearest Neighbors model t
 
 ## Interpretation of Results:
 
-The training accuracy of the K-Nearest Neighbors model with `n_neighbors=3` is approximately 0.51. This indicates that the model correctly predicts the number of rings for about 51% of the training examples.
+The training accuracy of the K-Nearest Neighbors model with `n_neighbors=3` is approximately 0.735. This indicates that the model correctly predicts the number of rings for about 73.5% of the training examples.
 
 **Note:** This is a basic model and the accuracy can likely be improved by:
 
